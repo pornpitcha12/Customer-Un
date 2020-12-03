@@ -2,6 +2,7 @@ package com.digitalacademy.customer.customer.controller;
 
 import com.digitalacademy.customer.customer.model.Customer;
 import com.digitalacademy.customer.customer.service.CustomerService;
+import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
